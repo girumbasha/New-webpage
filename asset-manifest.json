@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/girumbasha/GirumPortfolio/static/css/main.2d802c69.css",
+    "main.js": "/girumbasha/GirumPortfolio/static/js/main.23ea03fe.js",
+    "static/js/787.1f11dfe9.chunk.js": "/girumbasha/GirumPortfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/mypro.jpg": "/girumbasha/GirumPortfolio/static/media/mypro.4179ae383c15c0cc7566.jpg",
+    "static/media/justinwaller.webp": "/girumbasha/GirumPortfolio/static/media/justinwaller.593f699290a111b03084.webp",
+    "static/media/andrewtate.jpg": "/girumbasha/GirumPortfolio/static/media/andrewtate.4c4d9be17dcab7dbe917.jpg",
+    "static/media/BillGates.webp": "/girumbasha/GirumPortfolio/static/media/BillGates.d74117ecac13f63e6784.webp",
+    "static/media/braintracy.jpg": "/girumbasha/GirumPortfolio/static/media/braintracy.8a640f5fdb6ce95d4493.jpg",
+    "index.html": "/girumbasha/GirumPortfolio/index.html",
+    "main.2d802c69.css.map": "/girumbasha/GirumPortfolio/static/css/main.2d802c69.css.map",
+    "main.23ea03fe.js.map": "/girumbasha/GirumPortfolio/static/js/main.23ea03fe.js.map",
+    "787.1f11dfe9.chunk.js.map": "/girumbasha/GirumPortfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d802c69.css",
+    "static/js/main.23ea03fe.js"
+  ]
+}

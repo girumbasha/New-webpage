@@ -1,0 +1,166 @@
+:root {
+    --font-base: 'Cormorant Upright', serif;
+    --font-alt: 'Open Sans', sans-serif;
+    
+    --color-golden: #DCCA87;
+    --color-black: #0C0C0C;
+    --color-gray: #545454;
+    --color-crimson: #F5EFDB;
+    --color-grey: #AAAAAA;
+    --color-white: #FFFFFF;
+  }
+
+
+  #peoplethink-container  {
+    background-color:var(--color-black);
+     color:var(--color-grey) ;
+    overflow: hidden;
+  }
+  .peoplethink-title{
+    color: var(--color-white);
+    font-size: 24px;
+     font-weight: 100;
+     text-align: center;
+     padding-top: 100px;
+  }
+  
+  
+  .testi-content {
+    margin-top: 6rem;
+  }
+  
+  .reviews {
+    overflow: hidden;
+  }
+  
+  .review {
+    position: relative;
+    padding: 2rem 1.5rem;
+  }
+  
+  .quote {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--main-color);
+    opacity: 0.04;
+    font-size: 8rem;
+  }
+  
+  .rate {
+    display: flex;
+    font-size: 1.4rem;
+    color: #ebc000;
+    margin-bottom: 1.5rem;
+  }
+  
+  .rate i {
+    margin-right: 0.3rem;
+  }
+  
+  .review-text {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #F5EFDB;
+    line-height: 1.7;
+    margin-top: 60px;
+  }
+  
+  .review-info {
+    margin-top: 2rem;
+  }
+  
+  .review-name {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--dark-one);
+  }
+  
+  .review-job {
+    font-size: 1.15rem;
+    font-weight: 300;
+    color: #777;
+  }
+  
+  .review-nav {
+    bottom: 2.2rem;
+    top: initial;
+    font-size: 1.8rem;
+    color: var(--main-color);
+  }
+  
+  .swiper-button-next {
+    right: 2rem;
+    left: initial;
+  }
+  
+  .swiper-button-prev {
+    right: 4.5rem;
+    left: initial;
+  }
+  
+  .swiper-button-prev:after,
+  .swiper-button-next:after {
+    display: none;
+  }
+  .project-link {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .project-link h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .project-link p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .project-link a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .project-link a:hover {
+    background-color: #0056b3;
+  }
+  .group-project-section{
+    background-color: #c6c5c5;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  /* testimonial people image*/
+  .review {
+    /* Your existing styles for the testimonial container */
+    /* Make sure to set appropriate width and padding */
+    position: relative;
+  }
+  
+  .review-avatar {
+    width: 150px;
+    height: 150px;
+    /* border-radius: 50%; */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; /* This will horizontally center the container */
+  }
+  
+  .review-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
